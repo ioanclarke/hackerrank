@@ -32,6 +32,6 @@ def makeAnagram(a, b):
     return deletions
 
 
-a = 'cat'
-b = 'car'
+a = 'cde'
+b = 'abc'
 print(makeAnagram(a, b))
